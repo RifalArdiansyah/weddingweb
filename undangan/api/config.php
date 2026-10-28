@@ -11,10 +11,10 @@
 /* XAMPP/Laragon default: host=localhost, user=root, password kosong.
    Jika di hosting cPanel: host biasanya "localhost", user & password
    diisi sesuai yang Anda buat di menu "MySQL Databases". */
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'undangan_db');   // nama database (lihat database.sql)
-define('DB_USER', 'root');          // user MySQL
-define('DB_PASS', '');              // password MySQL
+define('DB_HOST', 'sql205.infinityfree.com');
+define('DB_NAME', 'if0_43289972_undangan_db');
+define('DB_USER', 'if0_43289972');
+define('DB_PASS', 'Sunglasses12123');
 
 /* ---------- 2) Password halaman admin — WAJIB DIGANTI! ---------- */
 /* Halaman admin: buka /admin/ lewat browser, login dengan password ini. */
